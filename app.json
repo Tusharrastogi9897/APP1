@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "React-Native-App",
+    "slug": "React-Native-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "It is the Sample App where I implemented many features with animations to use. I also have given the source code of this app. You can check it from their or for run this app, You have to download expo-client.\nThankyou for reading :)",
+    "githubUrl": "https://github.com/Tusharrastogi9897/APP1/"
+  }
+}
